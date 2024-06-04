@@ -1,0 +1,14 @@
+{
+  "name": "Nouns",
+  "symbol": "NOUNS",
+  "decimals": 18,
+  "description": "A fungible token backed by Nouns. Each Noun equals 1M $nouns.",
+  "tokens": {
+    "ethereum": {
+      "address": "0x6c02337EaDa42DD96Aa5816F8CC2D8992b31854D"
+    },
+    "base": {
+      "address": "0xC07d74F9954cbf7febf75fb66858a4Cb6F879891"
+    }
+  }
+}
